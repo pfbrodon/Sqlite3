@@ -1,0 +1,40 @@
++----------+-------------+------------------------------------------+------------+----------+----------+
+|   CODIGO | CATEGORIA   | DESCRIPCION                              |   CANTIDAD |   PRECIO |      PVP |
++==========+=============+==========================================+============+==========+==========+
+|        2 | BULONERIA   | TORNILLO FIX 5X55 MM                     |        524 |    67.50 |    71.52 |
+|        3 | buloneria   | Tornillo cabeza hexagonal M12x45         |         12 |   500.00 |   510.00 |
+|        4 | buloneria   | Tornillo Fix 6x50                        |         23 |    32.00 |    34.00 |
+|        5 | buloneria   | Tornillo Fix 5x45                        |         34 |    23.00 |    23.00 |
+|        6 | buloneria   | Tuerca M10 dureza 8                      |        560 |    26.00 |    28.00 |
+|        7 | buloneria   | Arandela M6x20mm                         |        789 |    12.00 |    15.00 |
+|        8 | buloneria   | Tornillo Allen M4x50 cabeza cilindrica   |        343 |   100.00 |   110.00 |
+|        9 | buloneria   | Tornillo Allen M6x35 cabeza cilindrica   |        234 |    76.00 |    78.00 |
+|       10 | buloneria   | Arandela de Presion 1/4"                 |        500 |    13.00 |    15.00 |
+|       11 | buloneria   | Arandela groover 5/8"                    |        400 |    21.00 |    24.00 |
+|       12 | buloneria   | Tornillo Allen cabeza fresasa M8x40      |         50 |   100.00 |   105.00 |
+|        1 | buloneria   | Tornillo Parker 3mm Philips              |       2323 |    12.00 |    14.00 |
+|       13 | buloneria   | Tornillo Fix 4.5x40                      |        400 |    20.00 |    23.00 |
+|       14 | buloneria   | Tuerca Autofrenante M8 Zincada           |        435 |    25.00 |    26.00 |
+|       15 | buloneria   | Tuerca Autofrenante M6 Zincada           |        563 |    20.00 |    23.00 |
+|       16 | buloneria   | Tornillo Cabeza Hexagonal 3/8 Whitworth  |        120 |    15.00 |    16.00 |
+|       17 | buloneria   | Tornillo Cabeza Hexagonal 5/16 Whitworth |        300 |    14.00 |    15.00 |
+|       18 | buloneria   | Arandela Biselada M8 Zinc                |        369 |    20.00 |    24.00 |
+|      235 | ferreteria  | lima bastarda 10 pulgadas                |         25 |  2500.00 |  2950.00 |
+|    34342 | buloneria   | Prisionero m6                            |        333 |    34.00 |    50.00 |
+|     4586 | FERRETERIA  | Llave Combinada N19                      |         45 |  2000.00 |  2500.00 |
+|     6985 | FERRETERIA  | LLAVE COMBINADA N13                      |         10 |  1900.00 |  2400.00 |
+|   232424 | FERRETERIA  | LLAVE COMBINADA N12                      |         23 |  1300.00 |  1500.00 |
+|    45332 | FERRETERIA  | LLAVE FRANCESA 10 PULGADAS               |        234 |  2300.00 |  3000.43 |
+|     4585 | FERRETERIA  | CALIBRE 150MM                            |         12 | 19000.00 | 25500.00 |
+|     8998 | FERRETERIA  | DESTORNILLADOR PLANO 4X150MM             |         15 |  1500.00 |  1720.60 |
+|     9854 | FERRETERIA  | BASE MAGNETIA ARTICULADA 300M            |          2 | 35000.00 | 42562.36 |
+|      658 | FERRETERIA  | DESTORNILLADOR PH1X150MM                 |         12 |  1000.00 |  1253.00 |
+|    45875 | FERRETERIA  | MECHA ACERO RAPIDO 2MM                   |         10 |   450.00 |   510.00 |
+|    45869 | FERRETERIA  | MECHA ACERO RAPIDO 4MM                   |         10 |   560.00 |   595.00 |
+|     6958 | FERRETERIA  | FRESA AVELLANADORA M6 ENCASTRE 1/4       |         50 |  3500.00 |  4002.00 |
+|     7485 | FERRETERIA  | TUBO ESTRIADO METRICO 15 1/2             |         15 |  1400.00 |  1745.00 |
+|     9658 | FERRETERIA  | NIVEL LASER 15M ALCANCE EJE X/Y          |          2 | 56000.00 | 62355.14 |
+|    69658 | FERRETERIA  | TORNILLO MICROMETRICO 25-50MM            |          2 | 45752.36 | 55000.00 |
+|     7563 | FERRETERIA  | REGLA METALICA DE 300 MM                 |         10 |   740.00 |   955.50 |
+|      324 | FERRETERIA  | ESCUADRA MAGNETICA DE 3 PULGADAS         |          6 |  2500.00 |  2945.00 |
++----------+-------------+------------------------------------------+------------+----------+----------+
